@@ -5,7 +5,7 @@ import { STATS_GET } from '../../api'
 import Loading from '../Helper/Loading'
 import Error from '../Helper/Error'
 import componentLoader from './componentLoader.js'
-const UserStatsGraphs = React.lazy(componentLoader(import('./UserStatsGraphs'),5))
+const UserStatsGraphs = React.lazy(componentLoader('./UserStatsGraphs',5))
 
 
 
