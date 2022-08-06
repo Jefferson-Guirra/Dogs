@@ -7,10 +7,9 @@ import UserHeader from './UserHeader'
 import UserPhotoPost from './UserPhotoPost'
 import UserStats from './UserStats'
 import { useSelector } from 'react-redux'
-import componentLoader from './ComponentLoader'
+
 
 const User = () => {
-  const UserStatsGraphs = React.lazy(componentLoader('./UserStatsGraphs'))
   const {data} = useSelector(state=>state.user) 
  
   
