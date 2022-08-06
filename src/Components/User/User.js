@@ -11,9 +11,6 @@ import { useSelector } from 'react-redux'
 
 const User = () => {
   const {data} = useSelector(state=>state.user) 
- 
-  
-  
   return (
     <section className='container'>
       <Head title='Minha Conta'/>
