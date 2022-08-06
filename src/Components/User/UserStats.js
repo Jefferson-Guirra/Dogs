@@ -4,7 +4,7 @@ import useFetch from '../../Hooks/useFetch'
 import { STATS_GET } from '../../api'
 import Loading from '../Helper/Loading'
 import Error from '../Helper/Error'
-import componentLoader from './ComponentLoader.js'
+import componentLoader from './componentLoader'
 const UserStatsGraphs = React.lazy(componentLoader(import('./UserStatsGraphs')))
 
 
