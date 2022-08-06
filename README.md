@@ -1,4 +1,4 @@
-# Animais Fantásticos
+# Dogs
 
 <!---Esses são exemplos. Veja https://shields.io para outras pessoas ou para personalizar este conjunto de escudos. Você pode querer incluir dependências, status do projeto e informações de licença aqui--->
 
@@ -20,7 +20,7 @@ O site é composto por quatro seções:
 - **Minha Conta:** Apresenta o feed de fotos postadas por você;
 - **Estatísticas:** é mostrado as estaísticas da sua conta;
 - **Poste sua Foto:** É aqui que você pode postar a foto do seu pet junto a suas informações;
-- **Logout: função de deslogar da conta.
+- **Logout:** função de deslogar da conta.
 
 
 ---
