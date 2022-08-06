@@ -10,7 +10,7 @@ import componentLoader from './ComponentLoader'
 
 const UserStats = ()=>{
   const {data,error,loading,request} = useFetch()
-  const UserStatsGraphs = React.lazy(componentLoader(import('./UserStatsGraphs')))
+  const UserStatsGraphs = React.lazy(componentLoader('./UserStatsGraphs'))
   React.useEffect(()=>{
     async function getData(){
       const {url,options} = STATS_GET()
