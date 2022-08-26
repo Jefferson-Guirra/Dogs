@@ -7,8 +7,8 @@
 > Rede social criada para os apaixonados por pets, você pode criar a conta do seu pet, postar fotos bem como comentar nas fotos de outros pets, se perder a conta poderá recuperar pelo codígo de recuperação enviado por email.
 
 - **Obs:** Para facilitar o login já existe um usuário cadastrado com: 
-- **nome:** dog 
-- **senha:** dog
+   - **nome:** dog 
+   - **senha:** dog
 
 
 <h4 align="center"><a href="https://jefferson-guirra.github.io/-Projetos/projeto-02/" target="_blank">Clique para visitar o projeto</a></h4>
