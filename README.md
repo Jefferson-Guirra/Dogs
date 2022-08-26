@@ -11,13 +11,6 @@
 - **senha:** dog
 
 
-
-
-
-
-
-<br>
-
 <h4 align="center"><a href="https://jefferson-guirra.github.io/-Projetos/projeto-02/" target="_blank">Clique para visitar o projeto</a></h4>
 
 ## 📚 Seções
@@ -33,7 +26,7 @@ O site é composto por quatro seções:
 
 
 ---
-<br>
+
 
 ## 🚀  Ferramentas usadas:
 
