@@ -6,9 +6,11 @@
 
 > Rede social criada para os apaixonados por pets, você pode criar a conta do seu pet, postar fotos bem como comentar nas fotos de outros pets, se perder a conta poderá recuperar pelo codígo de recuperação enviado por email.
 
->obs: Para facilitar o login já existe um usuário cadastrado com dados:
+obs: Para facilitar o login já existe um usuário cadastrado com dados:
 username:dog
 senha:dog
+
+--
 
 
 <br>
