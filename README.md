@@ -28,7 +28,7 @@ O site é composto por quatro seções:
 
 ## 🚀  Ferramentas usadas:
 
-O projeto visou o aprendizado desde o básico ao avaçando de Reatcjs, Redux, React Router:
+O projeto visou o aprendizado desde o básico ao avaçando de Reatcjs, Redux, React Router.
 
 - HTML;
 - Css;
