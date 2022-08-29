@@ -53,7 +53,7 @@ O projeto foi concluído e todas as tarefas finalizadas:
 - [x] Tarefa 5
 
 
-* Compatível `<Windows / Linux / Mac>`." alt="Doctor Care">
+* Compatível `<Windows / Linux / Mac>`."
 
 <br>
 
