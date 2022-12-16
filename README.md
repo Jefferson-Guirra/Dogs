@@ -32,7 +32,6 @@ O site é composto por quatro seções:
 
 O projeto visou o aprendizado desde o básico ao avaçando de Reatcjs, Redux, React Router.
 
-- HTML;
 - Css;
 - JavaScript;
 - React;
